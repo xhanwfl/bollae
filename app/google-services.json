@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120126534599",
+    "project_id": "bollae-4ac55",
+    "storage_bucket": "bollae-4ac55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120126534599:android:963c60efb1e10caf5d5fe2",
+        "android_client_info": {
+          "package_name": "com.jambosoft.bollae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120126534599-hh5h384ldt9995e4qhd8bcd3h5466i0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jambosoft.bollae",
+            "certificate_hash": "a968c18fedd8045f4dbe54dc217668e09a68fec7"
+          }
+        },
+        {
+          "client_id": "120126534599-po7vsjt27nuf2hcpdi4d10g3obp0vssq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86XEGIBbRsz-w1O0cDX1TuzyiJrM7KCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120126534599-po7vsjt27nuf2hcpdi4d10g3obp0vssq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
